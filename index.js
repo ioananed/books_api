@@ -12,6 +12,6 @@ app.get("/book-list", function (req, res) {
   res.json(books);
 });
 
-app.listen(3000, () => {
+app.listen(process.env.PORT || 3000, () => {
   console.log("Sever is runing at http://localhost:3000");
 });
