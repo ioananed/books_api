@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Harry Potter Volume I",
+    "year": 2000,
+    "category": "Fantasy"
+  },
+  {
+    "id": 2,
+    "name": "Vegan recipies",
+    "year": 2020,
+    "category": "Cooking"
+  }
+]
